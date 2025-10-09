@@ -1,2 +1,4 @@
 Get the usr data 
 processing a data ...
+
+create a avtar for user
